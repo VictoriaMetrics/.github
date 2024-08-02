@@ -9,7 +9,11 @@ VictoriaMetrics is a fast, cost-saving, and scalable solution for monitoring and
 - Changelog: [CHANGELOG](https://docs.victoriametrics.com/changelog/), and [How to upgrade](https://docs.victoriametrics.com/#how-to-upgrade-victoriametrics)
 - Community: [Slack](https://slack.victoriametrics.com/), [Twitter](https://twitter.com/VictoriaMetrics), [LinkedIn](https://www.linkedin.com/company/victoriametrics/), [YouTube](https://www.youtube.com/@VictoriaMetrics)
 
-Yes, we open-source both the single-node VictoriaMetrics and the cluster version.
+We open-source both the single-node VictoriaMetrics and the cluster version. But if you need more than that, we provide:
+- [Enterprise version](https://docs.victoriametrics.com/enterprise/) with many advanced features: downsampling, multiple retentions, anomaly detection, first-class consulting with our developers, and more.
+- [Cloud version](https://docs.victoriametrics.com/victoriametrics-cloud/overview/) for hosting directly on AWS, with no typical DevOps tasks required. Try it at [VictoriaMetrics Cloud](https://victoriametrics.com/cloud/).
+
+Contact us at [sales@victoriametrics.com](mailto:info@victoriametrics.com) for more information.
 
 ## Prominent features
 
