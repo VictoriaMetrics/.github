@@ -13,7 +13,7 @@ We open-source both the single-node VictoriaMetrics and the cluster version. But
 - [Enterprise version](https://docs.victoriametrics.com/enterprise/) with many advanced features: downsampling, multiple retentions, anomaly detection, first-class consulting with our developers, and more.
 - [Cloud version](https://docs.victoriametrics.com/victoriametrics-cloud/overview/) for hosting directly on AWS, with no typical DevOps tasks required. Try it at [VictoriaMetrics Cloud](https://victoriametrics.com/cloud/).
 
-[Contact us](mailto:info@victoriametrics.com) if you need more support or you can request a [free trial license](https://victoriametrics.com/products/enterprise/trial/). Downloaded Enterprise binaries are available at [Github Releases](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/latest).
+[Contact us](mailto:info@victoriametrics.com) if you need more support, or you can request a [free Enterprise trial license](https://victoriametrics.com/products/enterprise/trial/).
 
 ## Prominent features
 
