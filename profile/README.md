@@ -11,7 +11,7 @@ VictoriaMetrics is a fast, cost-saving, and scalable solution for monitoring and
 
 We open-source both the single-node VictoriaMetrics and the cluster version. But if you need more than that, we provide:
 - [Enterprise version](https://docs.victoriametrics.com/enterprise/) with many advanced features: downsampling, multiple retentions, anomaly detection, first-class consulting with our developers, and more.
-- [Cloud version](https://docs.victoriametrics.com/victoriametrics-cloud/overview/) for hosting directly on AWS, with no typical DevOps tasks required. Try it at [VictoriaMetrics Cloud](https://victoriametrics.com/cloud/).
+- [Cloud version](https://victoriametrics.com/products/cloud) for hosting directly on AWS, with no typical DevOps tasks required. Try it at [VictoriaMetrics Cloud](https://victoriametrics.com/cloud/).
 
 [Contact us](mailto:info@victoriametrics.com) if you need more support, or you can request a [free Enterprise trial license](https://victoriametrics.com/products/enterprise/trial/).
 
