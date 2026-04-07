@@ -3,7 +3,7 @@ VictoriaMetrics provides fast, cost-saving, and scalable solutions for Observabi
 - Documentation: [docs.victoriametrics.com](https://docs.victoriametrics.com)
 - Case studies: [Grammarly, Roblox, Wix,...](https://docs.victoriametrics.com/casestudies/).
   
-We provide open-source single-node and cluster versions of our software. But if you need more than that, we provide:
+We provide open-source versions of our software with community-level support. But if you need more, we also provide:
 - [Enterprise version](https://docs.victoriametrics.com/enterprise/) with many advanced features: downsampling, multiple retentions, anomaly detection, first-class consulting with our developers, and more.
 - [Cloud version](https://victoriametrics.com/products/cloud) for hosting directly on AWS, with no typical DevOps tasks required. Try it at [VictoriaMetrics Cloud](https://console.victoriametrics.cloud/signup).
 
@@ -15,9 +15,9 @@ We provide open-source single-node and cluster versions of our software. But if 
 The fast, cost-effective, scalable monitoring solution and time series database.
 
 - Playgrounds: [built-in web UI](https://play.victoriametrics.com/), [Grafana](https://play-grafana.victoriametrics.com/)
-- Integrations: [Grafana, Promethes, Perses, OpenTelemetry](https://docs.victoriametrics.com/victoriametrics/integrations/)
+- Integrations: [Grafana, Prometheus, Perses, OpenTelemetry](https://docs.victoriametrics.com/victoriametrics/integrations/)
 - [Documentation](https://docs.victoriametrics.com/victoriametrics/)
-- Available: [Binary releases](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/latest), docker images [Docker Hub](https://hub.docker.com/u/victoriametrics) and [Quay](https://quay.io/repository/victoriametrics/victoria-metrics), [Source code](https://github.com/VictoriaMetrics/VictoriaMetrics)
+- Installation: [Binary releases](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/latest), docker images [Docker Hub](https://hub.docker.com/u/victoriametrics) and [Quay](https://quay.io/repository/victoriametrics/victoria-metrics), [Source code](https://github.com/VictoriaMetrics/VictoriaMetrics)
 - Deployment types: [Single-node version](https://docs.victoriametrics.com/victoriametrics/), [Cluster version](https://docs.victoriametrics.com/victoriametrics/cluster-victoriametrics/)
 - Changelog: [CHANGELOG](https://docs.victoriametrics.com/victoriametrics/changelog/)
 
@@ -29,7 +29,7 @@ High-performance, lightweight, zero-config, schema-free database for logs that i
 - Playgrounds: [built-in web UI](https://play-vmlogs.victoriametrics.com/), [Grafana plugin for VictoriaLogs](https://play-grafana.victoriametrics.com/d/be5zidev72m80f/k8s-logs-via-victorialogs), [SQL to LogsQL](https://play-sql.victoriametrics.com/), [LogQL to LogsQL](https://play-logql.victoriametrics.com/)
 - Integrations: [Grafana, Perses](https://docs.victoriametrics.com/victorialogs/integrations/), [OpenTelemetry](https://docs.victoriametrics.com/victorialogs/data-ingestion/opentelemetry/)
 - [Documentation](https://docs.victoriametrics.com/victorialogs/)
-- Available: [Binary releases](https://github.com/VictoriaMetrics/VictoriaLogs/releases/latest), docker images [Docker Hub](https://hub.docker.com/r/victoriametrics/victoria-logs/) and [Quay](https://quay.io/repository/victoriametrics/victoria-logs), [Source code](https://github.com/VictoriaMetrics/VictoriaLogs)
+- Installation: [Binary releases](https://github.com/VictoriaMetrics/VictoriaLogs/releases/latest), docker images [Docker Hub](https://hub.docker.com/r/victoriametrics/victoria-logs/) and [Quay](https://quay.io/repository/victoriametrics/victoria-logs), [Source code](https://github.com/VictoriaMetrics/VictoriaLogs)
 - Deployment types: [Single-node version](https://docs.victoriametrics.com/victorialogs/), [Cluster version](https://docs.victoriametrics.com/victorialogs/cluster/)
 - Changelog: [CHANGELOG](https://docs.victoriametrics.com/victorialogs/changelog/)
 
@@ -40,14 +40,14 @@ VictoriaTraces is a fast and scalable database for traces.
 
 - [Documentation](https://docs.victoriametrics.com/victoriatraces/)
 - Integrations: [Grafana Jaeger](https://docs.victoriametrics.com/victoriatraces/querying/), [OpenTelemetry](https://docs.victoriametrics.com/victoriatraces/data-ingestion/opentelemetry/)
-- Available: [Binary releases](https://github.com/VictoriaMetrics/VictoriaTraces/releases/latest), docker images [Docker Hub](https://hub.docker.com/r/victoriametrics/victoria-traces/) and [Quay](https://quay.io/repository/victoriametrics/victoria-traces), [Source code](https://github.com/VictoriaMetrics/VictoriaTraces)
+- Installation: [Binary releases](https://github.com/VictoriaMetrics/VictoriaTraces/releases/latest), docker images [Docker Hub](https://hub.docker.com/r/victoriametrics/victoria-traces/) and [Quay](https://quay.io/repository/victoriametrics/victoria-traces), [Source code](https://github.com/VictoriaMetrics/VictoriaTraces)
 - Deployment types: [Single-node version](https://docs.victoriametrics.com/victoriatraces/), [Cluster version](https://docs.victoriametrics.com/victoriatraces/cluster/)
-- Changelog: [CHANGELOG](https://docs.victoriametrics.com/victoriatraces/changelog/), and [How to upgrade](https://docs.victoriametrics.com/victoriatraces/#upgrading)
+- Changelog: [CHANGELOG](https://docs.victoriametrics.com/victoriatraces/changelog/)
 
 
 ## Community and contributions
 
-Feel free asking any questions regarding VictoriaMetrics:
+Feel free to ask any questions regarding VictoriaMetrics:
 
 * [Slack Inviter](https://slack.victoriametrics.com/) and [Slack channel](https://victoriametrics.slack.com/)
 * [Twitter](https://twitter.com/VictoriaMetrics/)
