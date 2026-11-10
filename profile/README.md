@@ -50,7 +50,7 @@ VictoriaStack is an open source observability stack for metrics, logs, and trace
 
 - [Documentation](https://docs.victoriametrics.com/victoriastack/)
 - [Quick Start](https://docs.victoriametrics.com/victoriastack/quick-start/)
-- [Architecture][https://docs.victoriametrics.com/victoriastack/#architecture]
+- [Architecture](https://docs.victoriametrics.com/victoriastack/#architecture)
 - [Multitenancy](https://docs.victoriametrics.com/victoriastack/multitenancy/)
 - [Access control](https://docs.victoriametrics.com/victoriastack/access-control/)
 
